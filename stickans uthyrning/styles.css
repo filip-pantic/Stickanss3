@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    margin-top: -4%;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.header{
+    background-color:rgb(187, 190, 190); 
+    margin: 0px;
+}
+
+.footer{
+    background-color:rgb(187, 190, 190); 
+}
+
+.header h1{
+    text-align: center;
+}
+
+.login{
+    color: black;
+    text-align: right;  
+    margin-bottom: -30px;    
+}
+
+table{
+    width: 100%;
+}
+
+.navButton{
+    background-color: grey;
+}
+
+.main_div{
+    padding-top: 40px;
+    text-align: center;
+    background-color: gray;
+    margin: 0 auto;
+    width: 250px;
+    height: 100px;
+
+}
